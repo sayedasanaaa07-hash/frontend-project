@@ -7,5 +7,14 @@ aliya
 afshan
 sana
 
-Project Title :
-Frontend-Project
+Project Title: College Event Website
+
+Description:
+This website will show information about college events like workshops, fests and seminars.
+
+Pages:
+Home
+Events
+Gallery
+Register
+Contact
